@@ -1,0 +1,25 @@
+body{
+    width: 100%;
+    font-family: serif;
+    background-color: whitesmoke;
+}
+
+.quote,.message{
+    border: 2px solid black;
+    border-radius: 0.5rem;
+    margin: 10px 30px;
+    padding: 20px;
+    max-width: 75%;
+}
+
+.inputs{
+    position: relative;
+    padding: 10px;
+    margin: 5px 20px;
+    left: 2rem;
+}
+
+#search,.keywords{
+    margin: 10px 0px;
+}
+
